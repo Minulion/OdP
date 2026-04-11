@@ -1,4 +1,4 @@
-# OdP Studio
+# Ode de Parfum (OdP)
 
 A full-stack Next.js app that turns Spotify links into unique fragrance profiles.
 
